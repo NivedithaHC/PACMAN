@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "PACMAN",
+			"path": "."
+		},
+		{
+			"name": "WEATHER APP",
+			"path": "../WEATHER APP"
+		},
+		{
+			"name": "TicTacToe",
+			"path": "../TicTacToe"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "WEATHER APP"
+	}
+}
